@@ -9,7 +9,7 @@ function App() {
 
       <QuoteCard
       quote	="Me fail English? That's unpossible."
-      character="Ralph Wiggum"
+      character="Bart Simpsons"
       image="https://images-na.ssl-images-amazon.com/images/I/61Lfb%2Bsv5IL._SY679_.jpg"
       characterDirection="Left"
       />
@@ -17,7 +17,7 @@ function App() {
       <QuoteCard
       quote="Me fail English? That's unpossible."
       character="Jean Claudo"
-      image="https://www.fredzone.org/wp-content/uploads/2016/08/simpson-burns.jpg"
+      image="https://anniversaire-celebrite.com/upload/250x333/charles-montgomery-burns-250.jpg"
       characterDirection="Left"
       />
 
@@ -29,8 +29,8 @@ function App() {
 
       <QuoteCard
       quote="Nothing you say can upset us. We're the MTV generation."
-      character="Bart Simpson"
-      image="https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FBartSimpson.png"
+      character="John Kurt"
+      image="http://www.simpsonspark.com/images/persos/contributions/nelson-muntz-24965.jpg"
       characterDirection="Right"/>
     </div>
   );

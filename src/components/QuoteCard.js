@@ -7,6 +7,7 @@ const image = "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FNel
 const QuoteCard = (props) => {
     return (
         <div className="QuoteCard">
+            {props.id}
            <img src= {props.image}/>
            < div className="figcaption">
       <p className="blockquote">

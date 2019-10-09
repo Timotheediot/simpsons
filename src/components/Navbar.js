@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="Navbar">
       <a href="https://en.wikipedia.org/wiki/The_Simpsons">Simpons Wiki</a>
-      <br/> <p className="kiki"> It's A Nice App !!! </p>
+      <br/> <p className="kiki"> Simpsons Quotes Generator ! </p>
     </nav>
   );
 }

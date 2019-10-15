@@ -2,6 +2,7 @@ import React from 'react';
 
 
 import QuoteCard from './QuoteCard';
+import { bigIntLiteral } from '@babel/types';
 
 
 
@@ -13,7 +14,7 @@ const quotes = [
       character: "Homer Simpson",
       image:
         "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939",
-        id:1,
+        id:bigIntLiteral,
     },
     {
       quote: "Nothing you say can upset us. We're the MTV generation.",
